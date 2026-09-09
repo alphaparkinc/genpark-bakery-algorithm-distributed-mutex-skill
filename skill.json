@@ -1,0 +1,13 @@
+{
+  "name": "genpark-bakery-algorithm-distributed-mutex-skill",
+  "version": "1.0.0",
+  "description": "Lamport's Bakery algorithm ensuring starvation-free mutual exclusion, ticket ordering, and deadlock-free critical section arbitration.",
+  "topics": [
+    "genpark-skill",
+    "agentic-ai",
+    "bakery-algorithm",
+    "mutual-exclusion",
+    "mutex",
+    "concurrency"
+  ]
+}
